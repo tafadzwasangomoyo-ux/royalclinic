@@ -2,7 +2,7 @@
 
 A mobile-first, responsive website built for **Royal Park Clinic**, a 5-star general medical clinic located in Ruwa, Zimbabwe.
 
-🌐 **Live site:** [funny-unicorn-37fb48.netlify.app](https://funny-unicorn-37fb48.netlify.app)
+🌐 **Live site:** [royal-clinic-37fb48.netlify.app](https://royal-clinic-37fb48.netlify.app)
 
 ---
 
